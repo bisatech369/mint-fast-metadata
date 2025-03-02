@@ -1,0 +1,31 @@
+{
+  "name": "My Utility Token",
+  "symbol": "MUT",
+  "description": "A powerful utility token for Web3 applications.",
+  "image": "https://github.com/images/logo.png",
+  "external_url": "https://yourwebsite.com",
+  "project_website": "https://yourwebsite.com",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "creators": [
+      {
+        "name": "MintFast",
+        "website": "https://mintfast.net",
+        "address": "8y73PGHrqpLwa9wDruXNSUfVo3YtEssu5cywLZEaX3cp",
+        "verified": true
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://github.com/images/token.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "socials": {
+    "twitter": "https://twitter.com/yourproject",
+    "telegram": "https://t.me/yourcommunity",
+    "discord": "https://discord.gg/yourserver"
+  }
+}
