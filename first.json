@@ -2,7 +2,7 @@
   "name": "My Utility Token",
   "symbol": "MUT",
   "description": "A powerful utility token for Web3 applications.",
-  "image": "https://github.com/images/logo.png",
+  "image": "https://bisatech369.github.io/mint-fast-metadata/logo.png",
   "external_url": "https://yourwebsite.com",
   "project_website": "https://yourwebsite.com",
   "seller_fee_basis_points": 0,
@@ -18,7 +18,7 @@
     ],
     "files": [
       {
-        "uri": "https://github.com/images/token.png",
+        "uri": "https://bisatech369.github.io/mint-fast-metadata/logo.png",
         "type": "image/png"
       }
     ]
