@@ -1,0 +1,16 @@
+{
+  "name": "Chisom",
+  "symbol": "CHISOM",
+  "description": "Chisom Token was named after my lovely daughter.",
+  "image": "https://bisatech369.github.io/mint-fast-metadata/logo.png",
+  "attributes": [
+    {
+    "trait_type": "creator",
+    "value": "MintFast"
+    },
+    {
+    "trait_type": "website",
+    "value": "https://mintfast.net"
+    }
+  ]
+}
