@@ -3,16 +3,17 @@
   "symbol": "BROKE",
   "description": "Pay people that are broke with bro0ke token.",
   "image": "https://bisatech369.github.io/mint-fast-metadata/broke-logo.png",
-
-  "socials": {
-        "website": "https://solana.com/",
-        "twitter": "https://twitter.com/something",
-        "discord": "https://discord.gg/something"
-    },
-    "creator": [
-        ["creator", "MintFast"],
-        ["website", "https://mintfast.net"]
-    ],
+  "metadata": {
+    "socials": {
+          "website": "https://solana.com/",
+          "twitter": "https://twitter.com/something",
+          "discord": "https://discord.gg/something"
+      },
+      "creator": [
+          ["creator", "MintFast"],
+          ["website", "https://mintfast.net"]
+      ]
+  },
   
   "attributes": [
     {
