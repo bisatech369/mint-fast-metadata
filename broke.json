@@ -4,12 +4,12 @@
   "description": "Pay people that are broke with bro0ke token.",
   "image": "https://bisatech369.github.io/mint-fast-metadata/broke-logo.png",
 
-  "extensions": {
+  "socials": {
         "website": "https://solana.com/",
         "twitter": "https://twitter.com/something",
         "discord": "https://discord.gg/something"
     },
-    "additionalMetadata": [
+    "creator": [
         ["creator", "MintFast"],
         ["website", "https://mintfast.net"]
     ],
