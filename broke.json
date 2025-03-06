@@ -1,8 +1,8 @@
 {
-  "name": "Bobo Coin",
-  "symbol": "BOBO",
-  "description": "Pay people that are broke with BOBO token.",
-  "image": "https://bisatech369.github.io/mint-fast-metadata/broke-logo.png",
+  "name": "Smiling Frog",
+  "symbol": "SFROG",
+  "description": "A Smiling Frog is always happy",
+  "image": "https://bisatech369.github.io/mint-fast-metadata/sfrog-logo.png",
   "metadata": {
     "socials": {
           "website": "https://solana.com/",
