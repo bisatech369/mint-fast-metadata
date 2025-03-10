@@ -1,6 +1,32 @@
 {
 "name": "Happy Dog",
   "symbol": "HAPPYDOG",
-  "description": "Happy Dog brings happiness to crypto while rewarding its community.",
-  "image": "https://bisatech369.github.io/mint-fast-metadata/happy-dog-logo.png"
+  "description": "Happy Dog is more than a meme coin; it’s a movement of joy, positivity, and fun! Inspired by man’s best friend, Happy Dog brings happiness to crypto while rewarding its community.",
+  "image": "https://bisatech369.github.io/mint-fast-metadata/happy-dog-logo.png",
+  "seller_fee_basis_points": 500, 
+  "external_url": "https://mintfast.net",
+  "attributes": [
+    {
+      "trait_type": "Creator",
+      "value": "MintFast"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/thehappydog_"
+    },
+
+    {
+      "trait_type": "Website",
+      "value": "https://thedoghappy.com/"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bisatech369.github.io/mint-fast-metadata/happy-dog-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
