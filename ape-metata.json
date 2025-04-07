@@ -1,0 +1,13 @@
+{
+  "name": "American Pepe",
+  "symbol": "APE",
+  "description": "Launched by OG Pepe deployer. American Pepe - Everyone needs a second chance",
+  "image": "https://bisatech369.github.io/mint-fast-metadata/ape.png",
+  "metadata": {
+    "socials": {
+          "website": "https://americanpepe.site/",
+          "twitter": "https://x.com/Americanpepecto"
+      }
+      
+  }
+}
